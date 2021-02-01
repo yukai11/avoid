@@ -1,4 +1,1 @@
-# avoid
-# ShootingGame
-# ShootingGame
 # ShootingGame
